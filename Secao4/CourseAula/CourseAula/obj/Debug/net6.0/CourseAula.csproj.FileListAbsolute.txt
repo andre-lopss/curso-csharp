@@ -1,0 +1,15 @@
+C:\Users\andre\source\repos\CSharpCoursePOO\Secao4\CourseAula\CourseAula\bin\Debug\net6.0\CourseAula.exe
+C:\Users\andre\source\repos\CSharpCoursePOO\Secao4\CourseAula\CourseAula\bin\Debug\net6.0\CourseAula.deps.json
+C:\Users\andre\source\repos\CSharpCoursePOO\Secao4\CourseAula\CourseAula\bin\Debug\net6.0\CourseAula.runtimeconfig.json
+C:\Users\andre\source\repos\CSharpCoursePOO\Secao4\CourseAula\CourseAula\bin\Debug\net6.0\CourseAula.dll
+C:\Users\andre\source\repos\CSharpCoursePOO\Secao4\CourseAula\CourseAula\bin\Debug\net6.0\CourseAula.pdb
+C:\Users\andre\source\repos\CSharpCoursePOO\Secao4\CourseAula\CourseAula\obj\Debug\net6.0\CourseAula.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\CSharpCoursePOO\Secao4\CourseAula\CourseAula\obj\Debug\net6.0\CourseAula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\CSharpCoursePOO\Secao4\CourseAula\CourseAula\obj\Debug\net6.0\CourseAula.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\CSharpCoursePOO\Secao4\CourseAula\CourseAula\obj\Debug\net6.0\CourseAula.AssemblyInfo.cs
+C:\Users\andre\source\repos\CSharpCoursePOO\Secao4\CourseAula\CourseAula\obj\Debug\net6.0\CourseAula.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\CSharpCoursePOO\Secao4\CourseAula\CourseAula\obj\Debug\net6.0\CourseAula.dll
+C:\Users\andre\source\repos\CSharpCoursePOO\Secao4\CourseAula\CourseAula\obj\Debug\net6.0\refint\CourseAula.dll
+C:\Users\andre\source\repos\CSharpCoursePOO\Secao4\CourseAula\CourseAula\obj\Debug\net6.0\CourseAula.pdb
+C:\Users\andre\source\repos\CSharpCoursePOO\Secao4\CourseAula\CourseAula\obj\Debug\net6.0\CourseAula.genruntimeconfig.cache
+C:\Users\andre\source\repos\CSharpCoursePOO\Secao4\CourseAula\CourseAula\obj\Debug\net6.0\ref\CourseAula.dll

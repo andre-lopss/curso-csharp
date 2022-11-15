@@ -1,0 +1,15 @@
+C:\Users\andre\source\repos\CSharpCoursePOO\Secao4\ExerciciosSecaoQuatro\ExerciciosSecaoQuatro\bin\Debug\net6.0\ExerciciosSecaoQuatro.exe
+C:\Users\andre\source\repos\CSharpCoursePOO\Secao4\ExerciciosSecaoQuatro\ExerciciosSecaoQuatro\bin\Debug\net6.0\ExerciciosSecaoQuatro.deps.json
+C:\Users\andre\source\repos\CSharpCoursePOO\Secao4\ExerciciosSecaoQuatro\ExerciciosSecaoQuatro\bin\Debug\net6.0\ExerciciosSecaoQuatro.runtimeconfig.json
+C:\Users\andre\source\repos\CSharpCoursePOO\Secao4\ExerciciosSecaoQuatro\ExerciciosSecaoQuatro\bin\Debug\net6.0\ExerciciosSecaoQuatro.dll
+C:\Users\andre\source\repos\CSharpCoursePOO\Secao4\ExerciciosSecaoQuatro\ExerciciosSecaoQuatro\bin\Debug\net6.0\ExerciciosSecaoQuatro.pdb
+C:\Users\andre\source\repos\CSharpCoursePOO\Secao4\ExerciciosSecaoQuatro\ExerciciosSecaoQuatro\obj\Debug\net6.0\ExerciciosSecaoQuatro.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\CSharpCoursePOO\Secao4\ExerciciosSecaoQuatro\ExerciciosSecaoQuatro\obj\Debug\net6.0\ExerciciosSecaoQuatro.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\CSharpCoursePOO\Secao4\ExerciciosSecaoQuatro\ExerciciosSecaoQuatro\obj\Debug\net6.0\ExerciciosSecaoQuatro.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\CSharpCoursePOO\Secao4\ExerciciosSecaoQuatro\ExerciciosSecaoQuatro\obj\Debug\net6.0\ExerciciosSecaoQuatro.AssemblyInfo.cs
+C:\Users\andre\source\repos\CSharpCoursePOO\Secao4\ExerciciosSecaoQuatro\ExerciciosSecaoQuatro\obj\Debug\net6.0\ExerciciosSecaoQuatro.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\CSharpCoursePOO\Secao4\ExerciciosSecaoQuatro\ExerciciosSecaoQuatro\obj\Debug\net6.0\ExerciciosSecaoQuatro.dll
+C:\Users\andre\source\repos\CSharpCoursePOO\Secao4\ExerciciosSecaoQuatro\ExerciciosSecaoQuatro\obj\Debug\net6.0\refint\ExerciciosSecaoQuatro.dll
+C:\Users\andre\source\repos\CSharpCoursePOO\Secao4\ExerciciosSecaoQuatro\ExerciciosSecaoQuatro\obj\Debug\net6.0\ExerciciosSecaoQuatro.pdb
+C:\Users\andre\source\repos\CSharpCoursePOO\Secao4\ExerciciosSecaoQuatro\ExerciciosSecaoQuatro\obj\Debug\net6.0\ExerciciosSecaoQuatro.genruntimeconfig.cache
+C:\Users\andre\source\repos\CSharpCoursePOO\Secao4\ExerciciosSecaoQuatro\ExerciciosSecaoQuatro\obj\Debug\net6.0\ref\ExerciciosSecaoQuatro.dll

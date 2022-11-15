@@ -1,0 +1,15 @@
+C:\Users\andre\source\repos\CSharpCoursePOO\CourseExercises\CourseExercises\obj\Debug\net6.0\CourseExercises.csproj.AssemblyReference.cache
+C:\Users\andre\source\repos\CSharpCoursePOO\CourseExercises\CourseExercises\obj\Debug\net6.0\CourseExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\CSharpCoursePOO\CourseExercises\CourseExercises\obj\Debug\net6.0\CourseExercises.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\CSharpCoursePOO\CourseExercises\CourseExercises\obj\Debug\net6.0\CourseExercises.AssemblyInfo.cs
+C:\Users\andre\source\repos\CSharpCoursePOO\CourseExercises\CourseExercises\obj\Debug\net6.0\CourseExercises.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\CSharpCoursePOO\CourseExercises\CourseExercises\bin\Debug\net6.0\CourseExercises.exe
+C:\Users\andre\source\repos\CSharpCoursePOO\CourseExercises\CourseExercises\bin\Debug\net6.0\CourseExercises.deps.json
+C:\Users\andre\source\repos\CSharpCoursePOO\CourseExercises\CourseExercises\bin\Debug\net6.0\CourseExercises.runtimeconfig.json
+C:\Users\andre\source\repos\CSharpCoursePOO\CourseExercises\CourseExercises\bin\Debug\net6.0\CourseExercises.dll
+C:\Users\andre\source\repos\CSharpCoursePOO\CourseExercises\CourseExercises\bin\Debug\net6.0\CourseExercises.pdb
+C:\Users\andre\source\repos\CSharpCoursePOO\CourseExercises\CourseExercises\obj\Debug\net6.0\CourseExercises.dll
+C:\Users\andre\source\repos\CSharpCoursePOO\CourseExercises\CourseExercises\obj\Debug\net6.0\refint\CourseExercises.dll
+C:\Users\andre\source\repos\CSharpCoursePOO\CourseExercises\CourseExercises\obj\Debug\net6.0\CourseExercises.pdb
+C:\Users\andre\source\repos\CSharpCoursePOO\CourseExercises\CourseExercises\obj\Debug\net6.0\CourseExercises.genruntimeconfig.cache
+C:\Users\andre\source\repos\CSharpCoursePOO\CourseExercises\CourseExercises\obj\Debug\net6.0\ref\CourseExercises.dll
