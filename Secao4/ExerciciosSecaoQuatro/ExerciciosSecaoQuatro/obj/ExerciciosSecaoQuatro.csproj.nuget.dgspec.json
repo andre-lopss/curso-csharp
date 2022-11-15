@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\andre\\source\\repos\\CSharpCoursePOO\\Secao4\\ExerciciosSecaoQuatro\\ExerciciosSecaoQuatro\\ExerciciosSecaoQuatro.csproj": {}
+    "C:\\Users\\andre\\source\\repos\\curso-csharp\\Secao4\\ExerciciosSecaoQuatro\\ExerciciosSecaoQuatro\\ExerciciosSecaoQuatro.csproj": {}
   },
   "projects": {
-    "C:\\Users\\andre\\source\\repos\\CSharpCoursePOO\\Secao4\\ExerciciosSecaoQuatro\\ExerciciosSecaoQuatro\\ExerciciosSecaoQuatro.csproj": {
+    "C:\\Users\\andre\\source\\repos\\curso-csharp\\Secao4\\ExerciciosSecaoQuatro\\ExerciciosSecaoQuatro\\ExerciciosSecaoQuatro.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\andre\\source\\repos\\CSharpCoursePOO\\Secao4\\ExerciciosSecaoQuatro\\ExerciciosSecaoQuatro\\ExerciciosSecaoQuatro.csproj",
+        "projectUniqueName": "C:\\Users\\andre\\source\\repos\\curso-csharp\\Secao4\\ExerciciosSecaoQuatro\\ExerciciosSecaoQuatro\\ExerciciosSecaoQuatro.csproj",
         "projectName": "ExerciciosSecaoQuatro",
-        "projectPath": "C:\\Users\\andre\\source\\repos\\CSharpCoursePOO\\Secao4\\ExerciciosSecaoQuatro\\ExerciciosSecaoQuatro\\ExerciciosSecaoQuatro.csproj",
+        "projectPath": "C:\\Users\\andre\\source\\repos\\curso-csharp\\Secao4\\ExerciciosSecaoQuatro\\ExerciciosSecaoQuatro\\ExerciciosSecaoQuatro.csproj",
         "packagesPath": "C:\\Users\\andre\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\andre\\source\\repos\\CSharpCoursePOO\\Secao4\\ExerciciosSecaoQuatro\\ExerciciosSecaoQuatro\\obj\\",
+        "outputPath": "C:\\Users\\andre\\source\\repos\\curso-csharp\\Secao4\\ExerciciosSecaoQuatro\\ExerciciosSecaoQuatro\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\andre\\AppData\\Roaming\\NuGet\\NuGet.Config",
