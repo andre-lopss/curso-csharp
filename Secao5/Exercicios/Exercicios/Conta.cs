@@ -12,7 +12,7 @@ namespace Exercicios
         {
             NumeroDaConta = numeroDaConta;
             NomeDoTitular = nomeDoTitular;
-            Saldo = valorDeposito;
+            Deposito(valorDeposito);
         }
 
         public double Deposito(double deposito)
