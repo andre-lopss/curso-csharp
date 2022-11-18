@@ -5,14 +5,14 @@
         public string StudentName { get; set; }
         public string StudentEmail { get; set; }
 
-        public Student(string nome, string email)
+        public Student(string name, string email)
         {
-            StudentName = nome;
+            StudentName = name;
             StudentEmail = email;
         }
         public override string ToString()
         {
-            return StudentName + ", " + StudentEmail;
+            return "Student: " + StudentName + ", email: " + StudentEmail;
         }
     }
 }

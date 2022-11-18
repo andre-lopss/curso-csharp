@@ -25,21 +25,16 @@ namespace Exercicios
             }
 
             Console.WriteLine();
-            Console.WriteLine("Quartos ocupados:");
-
+            Console.WriteLine("Occupied rooms:");
             for (int i = 0; i < 10; i++)
-            {
                 if (vect[i] != null)
                     Console.WriteLine(i + ": " + vect[i]);
-            }
-
+               
             Console.WriteLine();
-            Console.WriteLine("Quartos vazios: ");
+            Console.WriteLine("Empty rooms: ");
             for (int i = 0; i < 10; i++)
-            {
                 if (vect[i] == null)
-                    Console.Write(i + " - ");
-            }
+                    Console.Write(i + " ");
 
             Console.ReadLine();
         }
