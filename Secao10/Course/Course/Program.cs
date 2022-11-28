@@ -1,6 +1,7 @@
-﻿using CourseAula.Entities;
+﻿using System;
+using Course.Entities;
 
-namespace CourseAula
+namespace Course
 {
     class Program
     {
@@ -45,6 +46,8 @@ namespace CourseAula
 
             Console.WriteLine(acc1.Balance);
             Console.WriteLine(acc2.Balance);
+
+            Console.ReadLine();
         }
     }
 }

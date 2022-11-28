@@ -1,4 +1,4 @@
-﻿namespace CourseAula.Entities
+﻿namespace Course.Entities
 {
     internal class Account
     {
@@ -29,3 +29,4 @@
         }
     }
 }
+

@@ -1,4 +1,6 @@
-﻿namespace CourseAula.Entities
+﻿using Course.Entities;
+
+namespace CourseAula.Entities
 {
     internal class BusinessAccount : Account
     {
@@ -8,7 +10,7 @@
         {
         }
 
-        public BusinessAccount(int number, string holder, double balance, double loanLimit) 
+        public BusinessAccount(int number, string holder, double balance, double loanLimit)
             : base(number, holder, balance)
         {
             LoanLimit = loanLimit;
@@ -16,7 +18,7 @@
 
         public void Loan(double amount)
         {
-            if(amount <= LoanLimit)
+            if (amount <= LoanLimit)
             {
                 Balance += amount;
             }
