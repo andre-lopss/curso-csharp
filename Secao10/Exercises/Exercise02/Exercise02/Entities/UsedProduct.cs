@@ -17,7 +17,7 @@ namespace Exercise02.Entities
         public override string PriceTag()
         {
             return Name
-                + " (Used) $"
+                + " (Used) $ "
                 + Price.ToString("F2", CultureInfo.InvariantCulture)
                 + " (Manufacture Date: "
                 + ManufactureDate.ToString("dd/MM/yyyy")

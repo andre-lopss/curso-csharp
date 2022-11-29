@@ -17,7 +17,7 @@ namespace Exercise02
             for(int i = 1; i <= n; i++)
             {
                 Console.WriteLine($"Product #{i} data:");
-                Console.Write("Common, used or imported(c / u / i) ?");
+                Console.Write("Common, used or imported(c / u / i)? ");
                 char option = char.Parse(Console.ReadLine());
                 Console.Write("Name: ");
                 string name = Console.ReadLine();
@@ -36,10 +36,18 @@ namespace Exercise02
                 else
                 {
                     Console.Write("Customs fee: ");
-                    double cus
+                    double customsFee = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+                    product.Add(new ImportedProduct(name, price, customsFee));
                 }
             }
+            Console.WriteLine();
+            Console.WriteLine("PRICE TAGS:");
+            foreach (Product tags in product)
+            {
+                Console.WriteLine(tags.PriceTag());
+            }
 
+            Console.ReadLine();
         }
     }
 }

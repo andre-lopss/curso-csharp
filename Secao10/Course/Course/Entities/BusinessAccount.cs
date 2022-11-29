@@ -1,6 +1,6 @@
 ﻿using Course.Entities;
 
-namespace CourseAula.Entities
+namespace Course.Entities
 {
     internal class BusinessAccount : Account
     {
