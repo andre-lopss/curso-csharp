@@ -11,7 +11,7 @@ namespace Exercise
         {
 
             Console.Write("Enter file full path: ");
-            string sourceFilePath = @"C:\Users\andre.lopes\source\repos\curso-csharp\file";
+            string sourceFilePath = @"C:\Users\andre.lopes\source\repos\curso-csharp\file.csv";
 
             try
             {
