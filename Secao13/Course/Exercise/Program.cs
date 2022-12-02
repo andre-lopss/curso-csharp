@@ -1,5 +1,4 @@
-﻿
-using System;
+﻿using System;
 using System.Globalization;
 using System.IO;
 
@@ -9,17 +8,13 @@ namespace Exercise
     {
         static void Main(string[] args)
         {
-
-            Console.Write("Enter file full path: ");
-            string sourceFilePath = @"C:\Users\andre.lopes\source\repos\curso-csharp\file.csv";
-
+            string sourceFilePath = @"C:\Users\andre.lopes\source\repos\curso-csharp\file.csv";  
             try
             {
                 string[] lines = File.ReadAllLines(sourceFilePath);
-
                 string sourceFolderPath = Path.GetDirectoryName(sourceFilePath);
                 string targetFolderPath = sourceFolderPath + @"\out";
-                string targetFilePath = targetFolderPath + @"\summary.csv";
+                string targetFilePath = targetFolderPath + @"\summary.csv";  
 
                 Directory.CreateDirectory(targetFolderPath);
 
@@ -27,11 +22,10 @@ namespace Exercise
                 {
                     foreach (string line in lines)
                     {
-
                         string[] fields = line.Split(',');
-                        string name = fields[0];
+                        string name = fields[0].TrimStart('"');
                         double price = double.Parse(fields[1], CultureInfo.InvariantCulture);
-                        int quantity = int.Parse(fields[2]);
+                        int quantity = int.Parse(fields[2].TrimEnd('"'));
 
                         Product prod = new Product(name, price, quantity);
 
@@ -44,6 +38,7 @@ namespace Exercise
                 Console.WriteLine("An error occurred");
                 Console.WriteLine(e.Message);
             }
+            Console.ReadLine();
         }
     }
 }
