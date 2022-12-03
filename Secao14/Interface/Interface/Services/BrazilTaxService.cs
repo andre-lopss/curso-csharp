@@ -1,12 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Interface.Services
+﻿namespace Interface.Services
 {
-    class BrazilTaxService
+    class BrazilTaxService : ITaxService
     {
         public double Tax(double amount)
         {
