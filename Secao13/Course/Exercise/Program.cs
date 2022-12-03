@@ -8,7 +8,7 @@ namespace Exercise
     {
         static void Main(string[] args)
         {
-            string sourceFilePath = @"C:\Users\andre.lopes\source\repos\curso-csharp\file.csv";  
+            string sourceFilePath = @"C:\Users\andre\source\repos\curso-csharp\file.csv";  
             try
             {
                 string[] lines = File.ReadAllLines(sourceFilePath);

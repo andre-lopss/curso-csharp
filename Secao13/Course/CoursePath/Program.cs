@@ -7,7 +7,7 @@ namespace CoursePath
     {
         static void Main(string[] args)
         {
-            string path = @"C:\Users\andre.lopes\source\repos\curso-csharp\file1.txt";
+            string path = @"C:\Users\andre\source\repos\curso-csharp\file1.txt";
 
             try
             {

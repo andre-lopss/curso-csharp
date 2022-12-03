@@ -8,7 +8,7 @@ namespace CourseDirectoryAndDirectoryInfo
     {
         static void Main(string[] args)
         {
-            string path = @"C:\Users\andre.lopes\source\repos\curso-csharp\Secao13";
+            string path = @"C:\Users\andre\source\repos\curso-csharp\Secao13";
          
             try
             {
