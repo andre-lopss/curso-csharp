@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise", "Exercise\Exerci
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InterfaceHeranca", "InterfaceHeranca\InterfaceHeranca.csproj", "{F49FD531-EBE3-461B-A091-79467F468C88}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProblemaDiamante", "ProblemaDiamante\ProblemaDiamante.csproj", "{C2E0D583-A322-40EA-8117-B89D69B2F525}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{F49FD531-EBE3-461B-A091-79467F468C88}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F49FD531-EBE3-461B-A091-79467F468C88}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F49FD531-EBE3-461B-A091-79467F468C88}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C2E0D583-A322-40EA-8117-B89D69B2F525}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C2E0D583-A322-40EA-8117-B89D69B2F525}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C2E0D583-A322-40EA-8117-B89D69B2F525}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C2E0D583-A322-40EA-8117-B89D69B2F525}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
