@@ -4,7 +4,7 @@ using InterfaceHeranca.Model.Enums;
 
 namespace InterfaceHeranca.Model.Entities
 {
-    class Rectangle : Shape
+    class Rectangle : AbstractShape
     {
         public double Width { get; set; }
         public double Heigth { get; set; }

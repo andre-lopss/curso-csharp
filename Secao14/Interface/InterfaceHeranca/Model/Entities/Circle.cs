@@ -4,7 +4,7 @@ using InterfaceHeranca.Model.Enums;
 
 namespace InterfaceHeranca.Model.Entities
 {
-    class Circle : Shape
+    class Circle : AbstractShape
     {
         public double Radius { get; set; }
 

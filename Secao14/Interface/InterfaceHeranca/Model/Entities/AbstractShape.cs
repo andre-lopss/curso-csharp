@@ -1,9 +1,8 @@
-﻿using System;
-using InterfaceHeranca.Model.Enums;
+﻿using InterfaceHeranca.Model.Enums;
 
 namespace InterfaceHeranca.Model.Entities
 {
-    abstract class Shape
+    abstract class AbstractShape : IShape
     {
         public Color Color { get; set; }
 
