@@ -7,7 +7,7 @@ namespace ProblemaDiamante.Device
     {
         public void Print(string document)
         {
-            Console.WriteLine("ComboDevice Print " + document);
+            Console.WriteLine("ComboDevice print " + document);
         }
 
         public override void ProcessDoc(string document)
