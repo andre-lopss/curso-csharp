@@ -17,6 +17,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise01", "Exercise01\Ex
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise02", "Exercise02\Exercise02.csproj", "{333F8DF3-E7F5-40A9-B7D7-0A426891A5D2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DictionaryAndSortedDictionary", "DictionaryAndSortedDictionary\DictionaryAndSortedDictionary.csproj", "{6A382723-0AB2-4DF1-A615-2581C0B8BCDA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExerciseDictionary", "ExerciseDictionary\ExerciseDictionary.csproj", "{41E96ED2-B801-4F5F-95A5-BD7F3668DC5F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +55,14 @@ Global
 		{333F8DF3-E7F5-40A9-B7D7-0A426891A5D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{333F8DF3-E7F5-40A9-B7D7-0A426891A5D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{333F8DF3-E7F5-40A9-B7D7-0A426891A5D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A382723-0AB2-4DF1-A615-2581C0B8BCDA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A382723-0AB2-4DF1-A615-2581C0B8BCDA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6A382723-0AB2-4DF1-A615-2581C0B8BCDA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6A382723-0AB2-4DF1-A615-2581C0B8BCDA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41E96ED2-B801-4F5F-95A5-BD7F3668DC5F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41E96ED2-B801-4F5F-95A5-BD7F3668DC5F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41E96ED2-B801-4F5F-95A5-BD7F3668DC5F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41E96ED2-B801-4F5F-95A5-BD7F3668DC5F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
