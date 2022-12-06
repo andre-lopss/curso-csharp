@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Comparison", "Course\Compar
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Delegates", "Delegates\Delegates.csproj", "{FB08C254-F9A4-4ACD-BAE7-B84E9C72F5C8}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Predicate", "Predicate\Predicate.csproj", "{1E970AE5-1FEB-46C1-A74D-416699B79512}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{FB08C254-F9A4-4ACD-BAE7-B84E9C72F5C8}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FB08C254-F9A4-4ACD-BAE7-B84E9C72F5C8}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FB08C254-F9A4-4ACD-BAE7-B84E9C72F5C8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1E970AE5-1FEB-46C1-A74D-416699B79512}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1E970AE5-1FEB-46C1-A74D-416699B79512}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1E970AE5-1FEB-46C1-A74D-416699B79512}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1E970AE5-1FEB-46C1-A74D-416699B79512}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
