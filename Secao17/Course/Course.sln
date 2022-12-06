@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Linq", "Linq\Linq.csproj", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LinqWithLambda", "LinqWithLambda\LinqWithLambda.csproj", "{C0341598-39E7-4AA8-9D22-559D1413BF9A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise01", "Exercise01\Exercise01.csproj", "{F134707F-D455-472A-A8F1-46E5653A2982}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{C0341598-39E7-4AA8-9D22-559D1413BF9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C0341598-39E7-4AA8-9D22-559D1413BF9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C0341598-39E7-4AA8-9D22-559D1413BF9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F134707F-D455-472A-A8F1-46E5653A2982}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F134707F-D455-472A-A8F1-46E5653A2982}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F134707F-D455-472A-A8F1-46E5653A2982}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F134707F-D455-472A-A8F1-46E5653A2982}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
