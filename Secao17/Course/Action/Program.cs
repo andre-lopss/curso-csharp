@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using Action.Entities;
 
+//Fazer um programa que, a partir de uma lista de produtos, aumente o preço dos produtos em 10%.
 namespace Action
 {
     class Program
@@ -14,9 +15,12 @@ namespace Action
             list.Add(new Product("Tablet", 350.50));
             list.Add(new Product("HD Case", 80.90));
 
-            list.ForEach(updatePrice);
+            Action<Product> act = p => { p.Price += p.Price * 0.1; };
+            // Action<Product> act = updatePrice;
 
-            foreach(Product p in list)
+            list.ForEach(act);
+
+            foreach (Product p in list)
             {
                 Console.WriteLine(p);
             }
